@@ -3,7 +3,7 @@
 
 </p>
 
-- 🌐 That's me! (https://somdev.co/)
+- 🌐 Find me here (https://somdev.co)
 - 🔭 I’m currently working on learning to improve deployment of Machine Learning models
 - 🌱 I’m currently learning Keras & TensorFlow
 - 💬 Ask me about Machine Learning, Photography(https://bosecodes.github.io/serenity/), Music
