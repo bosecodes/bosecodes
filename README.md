@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on learning to improve deployment of Machine Learning models
 - 🌱 I’m currently learning Keras & TensorFlow
 - 💬 Ask me about Machine Learning, Photography(https://bosecodes.github.io/serenity/), Music
-- 📫 How to reach me: somdevbasu100@gmail.com
+- 📫 Reach me @ somdevbasu100@gmail.com
 - ⚡ Fun fact: I'm more productive after strumming my guitar
 
 ![](https://github.com/rishiraj/rishiraj/blob/master/github-contribution-grid-snake.svg)
