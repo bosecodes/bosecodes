@@ -2,4 +2,4 @@
 - 📫 Reach me @ somdevbasu100@gmail.com
 - ⚡ Fun fact: I'm more productive after strumming my guitar
 
-![](https://github.com/rishiraj/rishiraj/blob/master/github-contribution-grid-snake.svg)
+![LeetCode Stats](https://leetcard.jacoblin.cool/somdevvv?theme=dark&font=Goldman&ext=heatmap)
